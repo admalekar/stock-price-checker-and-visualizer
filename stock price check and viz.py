@@ -7,6 +7,8 @@ from urllib.request import urlopen
 from bs4 import BeautifulSoup 
 import urllib.request
 
+
+#TODO ask the user the enter the list. Use this list for now.
 symbolslist = ["infy","aapl"]
 
 #creating a header incase script is not allowed to scrap
